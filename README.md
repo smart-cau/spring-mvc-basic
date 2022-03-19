@@ -10,5 +10,5 @@
 #### [Part 2](https://github.com/smart-cau/spring-mvc-basic02)
 5. Spring MVC - 기본 기능
 -----------
-#### Part 3
+#### [Part 3](https://github.com/smart-cau/spring-mvc-basic03)
 7. Spring MVC - 웹 페이지 만들기
